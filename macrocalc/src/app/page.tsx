@@ -1,4 +1,3 @@
-import { Meal } from '@/types';
 import AddMealButton from '@/components/AddMealButton';
 import MealsList from '@/components/MealsList';
 import { DailyMacros } from '@/components/DailyMacros';
